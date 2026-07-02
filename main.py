@@ -27,3 +27,23 @@ num_of_students = 30
 print(f'I am {age} years old')
 print (f'I have bought {quantity} pieces of tofu for the week')
 print(f"there are {num_of_students} students in the class, they can share the {quantity} of tofu equally")
+# float 
+#float are integer numbers with decimal points
+price = 10.99
+gpa = 2.3
+print(f"the price of tofu is {price} per kilogram")
+print(f"my gpa is {gpa}")
+#boolean
+#boolean is a data type that can only have two values: True or False
+iam_student = True
+print (f"are you a student? {iam_student}")
+#boolean are usually used for conditonal statements like ff statements and loops
+#like this one
+if iam_student:
+    print("you are a student")
+
+
+
+
+
+

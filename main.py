@@ -36,11 +36,18 @@ print(f"my gpa is {gpa}")
 #boolean
 #boolean is a data type that can only have two values: True or False
 iam_student = True
+forsale = False
+
 print (f"are you a student? {iam_student}")
 #boolean are usually used for conditonal statements like ff statements and loops
 #like this one
 if iam_student:
     print("you are a student")
+#and this one
+if forsale:
+    print("the tofu is for sale") 
+else:
+    print("the tofu is not for sale")
 
 
 

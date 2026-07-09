@@ -49,9 +49,3 @@ if forsale:
 else:
     print("the tofu is not for sale")
 
-
-
-
-
-
-9
